@@ -20,8 +20,5 @@ in cod char(3),
 in nom varchar(40),
 in ape varchar(40)
 begin
-insert into productos(cod,nom,ape);
-end
-//
-call sqinsertarproducto('001','leche','
+
 
